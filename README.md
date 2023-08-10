@@ -8,11 +8,6 @@ The control loop diagram consists of the following components:
 
 ![image](https://github.com/James-Bray19/ACSE-tools/assets/47334864/cbe20517-4a04-4507-ae2b-d0f4ab23d049)
 
-- **R**: Desired output setpoint.
-- **E**: Error signal (difference between desired output and actual output).
-- **U**: Plant input (control signal to the plant).
-- **Y**: Actual output.
-
 ## System Inputs
 
 The following inputs are provided to the control system:
