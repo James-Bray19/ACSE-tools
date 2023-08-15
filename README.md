@@ -63,4 +63,3 @@ For each analysis, the following key behaviours and metrics are computed and dis
  - Built-in PID tuner
  - Latex formatting for long equations
  - Support for MIMO
- - 
