@@ -55,3 +55,11 @@ For each analysis, the following key behaviours and metrics are computed and dis
 1. Set the desired output (R), disturbance (V), and controller gains (Ki, Kp, Kd).
 2. Define the plant transfer function (G).
 3. Run the code in a MATLAB environment.
+
+## Potential Improvements
+
+ - Accuracy testing
+ - Exporting data
+ - Built-in PID tuner
+ - Latex formatting for long equations
+ - 
